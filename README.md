@@ -3,35 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAgns&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAgns&theme=light&show_icons=true)
 ##Her
-<?php
+class SoftwareEngineer:
 
-namespace AshBaker;
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
     public function getFutureGoal(): string
     {
