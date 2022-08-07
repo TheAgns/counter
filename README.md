@@ -4,3 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAgns&theme=light&show_icons=true)
 ##Her
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheAgns)](https://github.com/anuraghazra/github-readme-stats)
+https://coderstats.net/github/#theagns
