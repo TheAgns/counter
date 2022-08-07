@@ -5,3 +5,4 @@
 ##Her
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheAgns)](https://github.com/anuraghazra/github-readme-stats)
 https://coderstats.net/github/#theagns
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAgns&langs_count=5&theme=tokyonight)]()
